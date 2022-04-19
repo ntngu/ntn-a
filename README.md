@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ntn-a
 - 👀 I’m pursuing a Computer Science degree.
-- 🌱 I’m currently Assembly & Discrete Math.
+- 🌱 I’m currently learning Assembly & Discrete Math.
 
 <!---
 ntn-a/ntn-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
