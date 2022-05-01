@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ntn-a
+- 👋 Hi, I’m Nhan Nguyen
 - 👀 I’m pursuing a Computer Science degree.
 - 🌱 I’m currently learning Assembly & Discrete Math.
 
