@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nhan Nguyen
 - 👀 I’m pursuing a Computer Science degree.
-- 🌱 I’m currently learning Assembly & Discrete Math.
+- 🌱 I’m currently learning Algorithm Analysis and Statistics.
 
 [![ntn-a's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntngu)](https://github.com/ntn-a/github-readme-stats)
 
