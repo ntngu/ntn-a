@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Nhan Nguyen
-- 👀 I’m pursuing a Computer Science degree.
-- 🌱 I’m currently learning Algorithm Analysis and Statistics.
-
-[![ntn-a's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntngu)](https://github.com/ntn-a/github-readme-stats)
+- 👀 I’m pursuing a Computer Science degree at UC Davis.
+- 🌱 I’m currently learning Programming Languages and Scientific Computation.
 
 <!---
 ntn-a/ntn-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
